@@ -1,0 +1,47 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clockwork.API", "Clockwork.API\Clockwork.API.csproj", "{1B8B9C9D-EB80-405D-A2B4-6FEE566D8EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clockwork.Web.Tests", "Clockwork.Web.Tests\Clockwork.Web.Tests.csproj", "{7F442E44-EDD0-4605-BCDD-603BAA9984C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clockwork.Web", "Clockwork.Web\Clockwork.Web.csproj", "{45ADACB6-E810-4BF1-82B2-2BB230E3A918}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assemblies", "Assemblies", "{97A0E146-9CC5-4696-8F82-C6837DFC2211}"
+	ProjectSection(SolutionItems) = preProject
+		Assemblies\Kendo.Mvc.dll = Assemblies\Kendo.Mvc.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clockwork.Model", "Clockwork.Model\Clockwork.Model.csproj", "{7921C3F9-3857-49B9-8C7D-44ACBFE5ED18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B8B9C9D-EB80-405D-A2B4-6FEE566D8EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B8B9C9D-EB80-405D-A2B4-6FEE566D8EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B8B9C9D-EB80-405D-A2B4-6FEE566D8EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B8B9C9D-EB80-405D-A2B4-6FEE566D8EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F442E44-EDD0-4605-BCDD-603BAA9984C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F442E44-EDD0-4605-BCDD-603BAA9984C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F442E44-EDD0-4605-BCDD-603BAA9984C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F442E44-EDD0-4605-BCDD-603BAA9984C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45ADACB6-E810-4BF1-82B2-2BB230E3A918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45ADACB6-E810-4BF1-82B2-2BB230E3A918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45ADACB6-E810-4BF1-82B2-2BB230E3A918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45ADACB6-E810-4BF1-82B2-2BB230E3A918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7921C3F9-3857-49B9-8C7D-44ACBFE5ED18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7921C3F9-3857-49B9-8C7D-44ACBFE5ED18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7921C3F9-3857-49B9-8C7D-44ACBFE5ED18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7921C3F9-3857-49B9-8C7D-44ACBFE5ED18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD4DBC3E-C331-45DC-9252-B1BADE5120DB}
+	EndGlobalSection
+EndGlobal
