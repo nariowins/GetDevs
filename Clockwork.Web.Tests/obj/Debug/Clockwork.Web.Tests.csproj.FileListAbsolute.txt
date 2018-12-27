@@ -1,0 +1,92 @@
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\Clockwork.Web.Tests.dll
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\Clockwork.Web.Tests.pdb
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\Clockwork.Web.dll
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\nunit.framework.dll
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\Clockwork.Web.pdb
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\Clockwork.Web.dll.config
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\nunit.framework.xml
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Winz\New folder\Clockwork.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Winz\New folder\Clockwork.Web.Tests\obj\Debug\Clockwork.Web.Tests.csprojAssemblyReference.cache
+C:\Winz\New folder\Clockwork.Web.Tests\obj\Debug\Clockwork.Web.Tests.csproj.CoreCompileInputs.cache
+C:\Winz\New folder\Clockwork.Web.Tests\obj\Debug\Clockwork.Web.Tests.csproj.CopyComplete
+C:\Winz\New folder\Clockwork.Web.Tests\obj\Debug\Clockwork.Web.Tests.dll
+C:\Winz\New folder\Clockwork.Web.Tests\obj\Debug\Clockwork.Web.Tests.pdb
+C:\Winz\New folder\Clockwork.Web.Tests\obj\Debug\Clockwork.Web.Tests.csprojResolveAssemblyReference.cache
+C:\Winz\GetDevs\Clockwork.Web.Tests\obj\Debug\Clockwork.Web.Tests.csprojAssemblyReference.cache
+C:\Winz\GetDevs\Clockwork.Web.Tests\obj\Debug\Clockwork.Web.Tests.csproj.CoreCompileInputs.cache
+C:\Winz\GetDevs\Clockwork.Web.Tests\obj\Debug\Clockwork.Web.Tests.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\obj\Debug\Clockwork.Web.Tests.pdb
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\ApplicationInsights.config
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\roslyn\csc.exe
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\roslyn\vbc.exe
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Clockwork.Web.Tests.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Clockwork.Web.Tests.pdb
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Clockwork.Web.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\nunit.framework.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.Razor.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Owin.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Kendo.Mvc.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Clockwork.Model.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\EntityFramework.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.Http.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Clockwork.Web.pdb
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Clockwork.Web.dll.config
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\nunit.framework.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.Razor.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Clockwork.Model.pdb
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\EntityFramework.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Web.Http.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Winz\GetDevs\Clockwork.Web.Tests\obj\Debug\Clockwork.Web.Tests.csproj.CopyComplete

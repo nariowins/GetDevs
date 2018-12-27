@@ -1,5 +1,4 @@
-﻿using System;
-using Clockwork.Model;
+﻿using Clockwork.Model;
 using Microsoft.EntityFrameworkCore;
 
 namespace Clockwork.API.Models

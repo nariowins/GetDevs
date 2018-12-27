@@ -1,0 +1,182 @@
+C:\Winz\New folder\Clockwork.Web\bin\ApplicationInsights.config
+C:\Winz\New folder\Clockwork.Web\bin\roslyn\csc.exe
+C:\Winz\New folder\Clockwork.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Winz\New folder\Clockwork.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Winz\New folder\Clockwork.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Winz\New folder\Clockwork.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Winz\New folder\Clockwork.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Winz\New folder\Clockwork.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Winz\New folder\Clockwork.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Winz\New folder\Clockwork.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Winz\New folder\Clockwork.Web\bin\roslyn\vbc.exe
+C:\Winz\New folder\Clockwork.Web\bin\roslyn\VBCSCompiler.exe
+C:\Winz\New folder\Clockwork.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Winz\New folder\Clockwork.Web\bin\Clockwork.Web.dll.config
+C:\Winz\New folder\Clockwork.Web\bin\Clockwork.Web.dll
+C:\Winz\New folder\Clockwork.Web\bin\Clockwork.Web.pdb
+C:\Winz\New folder\Clockwork.Web\bin\Antlr3.Runtime.dll
+C:\Winz\New folder\Clockwork.Web\bin\Clockwork.Model.dll
+C:\Winz\New folder\Clockwork.Web\bin\EntityFramework.dll
+C:\Winz\New folder\Clockwork.Web\bin\EntityFramework.SqlServer.dll
+C:\Winz\New folder\Clockwork.Web\bin\Kendo.Mvc.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AI.Web.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Security.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Winz\New folder\Clockwork.Web\bin\Newtonsoft.Json.dll
+C:\Winz\New folder\Clockwork.Web\bin\Owin.dll
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.Helpers.dll
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.Mvc.dll
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.Optimization.dll
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.Razor.dll
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.WebPages.dll
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.WebPages.Razor.dll
+C:\Winz\New folder\Clockwork.Web\bin\WebGrease.dll
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.Http.dll
+C:\Winz\New folder\Clockwork.Web\bin\System.Net.Http.Formatting.dll
+C:\Winz\New folder\Clockwork.Web\bin\Clockwork.Model.pdb
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AI.Web.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.Helpers.xml
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.Mvc.xml
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.Optimization.xml
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.Razor.xml
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.WebPages.xml
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.WebPages.Razor.xml
+C:\Winz\New folder\Clockwork.Web\bin\Antlr3.Runtime.pdb
+C:\Winz\New folder\Clockwork.Web\bin\Newtonsoft.Json.xml
+C:\Winz\New folder\Clockwork.Web\bin\EntityFramework.xml
+C:\Winz\New folder\Clockwork.Web\bin\EntityFramework.SqlServer.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Security.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Winz\New folder\Clockwork.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Winz\New folder\Clockwork.Web\bin\System.Web.Http.xml
+C:\Winz\New folder\Clockwork.Web\bin\System.Net.Http.Formatting.xml
+C:\Winz\New folder\Clockwork.Web\obj\Debug\Clockwork.Web.csprojAssemblyReference.cache
+C:\Winz\New folder\Clockwork.Web\obj\Debug\Clockwork.Web.csproj.CoreCompileInputs.cache
+C:\Winz\New folder\Clockwork.Web\obj\Debug\Clockwork.Web.csproj.CopyComplete
+C:\Winz\New folder\Clockwork.Web\obj\Debug\Clockwork.Web.dll
+C:\Winz\New folder\Clockwork.Web\obj\Debug\Clockwork.Web.pdb
+C:\Winz\GetDevs\Clockwork.Web\bin\ApplicationInsights.config
+C:\Winz\GetDevs\Clockwork.Web\bin\roslyn\csc.exe
+C:\Winz\GetDevs\Clockwork.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Winz\GetDevs\Clockwork.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Winz\GetDevs\Clockwork.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\roslyn\vbc.exe
+C:\Winz\GetDevs\Clockwork.Web\bin\roslyn\VBCSCompiler.exe
+C:\Winz\GetDevs\Clockwork.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Winz\GetDevs\Clockwork.Web\bin\Clockwork.Web.dll.config
+C:\Winz\GetDevs\Clockwork.Web\bin\Clockwork.Web.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Clockwork.Web.pdb
+C:\Winz\GetDevs\Clockwork.Web\bin\Antlr3.Runtime.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Clockwork.Model.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\EntityFramework.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\EntityFramework.SqlServer.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Kendo.Mvc.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AI.Web.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Security.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Security.Google.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Newtonsoft.Json.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Owin.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.Helpers.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.Mvc.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.Optimization.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.Razor.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.WebPages.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.WebPages.Razor.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\WebGrease.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.Http.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Net.Http.Formatting.dll
+C:\Winz\GetDevs\Clockwork.Web\bin\Clockwork.Model.pdb
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AI.Web.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.Helpers.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.Mvc.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.Optimization.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.Razor.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.WebPages.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.WebPages.Razor.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Antlr3.Runtime.pdb
+C:\Winz\GetDevs\Clockwork.Web\bin\Newtonsoft.Json.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\EntityFramework.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\EntityFramework.SqlServer.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Security.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Security.Google.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Web.Http.xml
+C:\Winz\GetDevs\Clockwork.Web\bin\System.Net.Http.Formatting.xml
+C:\Winz\GetDevs\Clockwork.Web\obj\Debug\Clockwork.Web.csprojAssemblyReference.cache
+C:\Winz\GetDevs\Clockwork.Web\obj\Debug\Clockwork.Web.csproj.CoreCompileInputs.cache
+C:\Winz\GetDevs\Clockwork.Web\obj\Debug\Clockwork.Web.csproj.CopyComplete
+C:\Winz\GetDevs\Clockwork.Web\obj\Debug\Clockwork.Web.dll
+C:\Winz\GetDevs\Clockwork.Web\obj\Debug\Clockwork.Web.pdb

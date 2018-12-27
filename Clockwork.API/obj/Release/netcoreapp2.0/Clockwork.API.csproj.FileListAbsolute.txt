@@ -1,0 +1,15 @@
+C:\Winz\New folder\Clockwork.API\bin\Release\netcoreapp2.0\TimeZone.json
+C:\Winz\New folder\Clockwork.API\bin\Release\netcoreapp2.0\Clockwork.API.deps.json
+C:\Winz\New folder\Clockwork.API\bin\Release\netcoreapp2.0\Clockwork.API.runtimeconfig.json
+C:\Winz\New folder\Clockwork.API\bin\Release\netcoreapp2.0\Clockwork.API.runtimeconfig.dev.json
+C:\Winz\New folder\Clockwork.API\bin\Release\netcoreapp2.0\Clockwork.API.dll
+C:\Winz\New folder\Clockwork.API\bin\Release\netcoreapp2.0\Clockwork.API.pdb
+C:\Winz\New folder\Clockwork.API\bin\Release\netcoreapp2.0\Clockwork.Model.dll
+C:\Winz\New folder\Clockwork.API\bin\Release\netcoreapp2.0\Clockwork.Model.pdb
+C:\Winz\New folder\Clockwork.API\obj\Release\netcoreapp2.0\Clockwork.API.csprojAssemblyReference.cache
+C:\Winz\New folder\Clockwork.API\obj\Release\netcoreapp2.0\Clockwork.API.csproj.CoreCompileInputs.cache
+C:\Winz\New folder\Clockwork.API\obj\Release\netcoreapp2.0\Clockwork.API.AssemblyInfoInputs.cache
+C:\Winz\New folder\Clockwork.API\obj\Release\netcoreapp2.0\Clockwork.API.AssemblyInfo.cs
+C:\Winz\New folder\Clockwork.API\obj\Release\netcoreapp2.0\Clockwork.API.csproj.CopyComplete
+C:\Winz\New folder\Clockwork.API\obj\Release\netcoreapp2.0\Clockwork.API.dll
+C:\Winz\New folder\Clockwork.API\obj\Release\netcoreapp2.0\Clockwork.API.pdb

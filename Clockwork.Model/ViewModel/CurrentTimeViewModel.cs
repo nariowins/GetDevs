@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Clockwork.Model.ViewModel
+﻿namespace Clockwork.Model.ViewModel
 {
    public class CurrentTimeViewModel
     {

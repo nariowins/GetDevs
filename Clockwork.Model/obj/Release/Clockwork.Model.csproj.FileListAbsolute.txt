@@ -1,0 +1,6 @@
+C:\Winz\New folder\Clockwork.Model\bin\Release\Clockwork.Model.dll
+C:\Winz\New folder\Clockwork.Model\bin\Release\Clockwork.Model.pdb
+C:\Winz\New folder\Clockwork.Model\obj\Release\Clockwork.Model.csprojAssemblyReference.cache
+C:\Winz\New folder\Clockwork.Model\obj\Release\Clockwork.Model.csproj.CoreCompileInputs.cache
+C:\Winz\New folder\Clockwork.Model\obj\Release\Clockwork.Model.dll
+C:\Winz\New folder\Clockwork.Model\obj\Release\Clockwork.Model.pdb
